@@ -1,0 +1,10 @@
+{
+  "client_id": "https://sergey-komarov.github.io/openclaw-oauth/client.json",
+  "client_name": "Sergey OpenClaw Binance Read-only",
+  "redirect_uris": [
+    "http://127.0.0.1:8989/oauth/callback"
+  ],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
